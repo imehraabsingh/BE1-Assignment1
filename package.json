@@ -1,0 +1,15 @@
+{
+  "name": "be1-assignment1",
+  "version": "1.0.0",
+  "description": "This project is designed to log request details for every incoming request in an Express.js application. It uses middleware to capture essential request information and the `fs` module to store these details in a log file, providing hands-on experience with backend development concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
